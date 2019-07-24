@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: vishnukraj
+  author: arunskumar21
   description: Quick and easy setup for consul-cluster
   license: license (GPLv2, CC-BY, etc)
   min_ansible_version: 2.2
